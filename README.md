@@ -1,4 +1,4 @@
-# 📘 Book Store Management Dashboard (Power BI)
+# 📘 Book Store Dashboard (Power BI)
 
 This Power BI dashboard provides a detailed analysis of book sales, stock levels, customer behavior, and cart activity for an online bookstore. The goal is to help managers and stakeholders make informed decisions around sales performance, inventory, and customer insights.
 
